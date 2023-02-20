@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-  * main - mainf function
+  * main - main function
   *
   *Return: always 0
   */
