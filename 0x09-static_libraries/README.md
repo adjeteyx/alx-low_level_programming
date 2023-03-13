@@ -1,1 +1,1 @@
-Static_Libraries
+static library
