@@ -24,7 +24,7 @@ unsigned int i = 0;
 	}
 
 	while (i < index - 1)
- 	{
+	{
 		if (!temp || !(temp->next))
 		return (-1);
 	temp = temp->next;
